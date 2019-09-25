@@ -5,16 +5,16 @@
 If you want execute this script you must:
 - install Python3
 - install requests library
-```bash
+```console
     pip install requests
 ```
 - install beautifulsoup4 library
-```bash
+```console
     pip install beautifulsoup4
 ```
 - clone/download this repository
 - open terminal - go to repository folder
 - execute script
-```python
+```console
     python3 hello.py
 ```
